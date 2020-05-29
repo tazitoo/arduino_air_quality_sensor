@@ -13,7 +13,7 @@ I wired up this dust sensor as an attempt to measure the change in air quality i
 Grab `running_average_dust_sensor.ino` script and flash it to an Arduino Uno (or clone).  Wire it up and you are done.
 
 ## My process
-I built it up in steps: 
+I built it up in steps - see the scripts in `component_sketches`:
 - make the dust sensor work via the console
 - make the lcd print anything
 - make the dust sensor print to the lcd
