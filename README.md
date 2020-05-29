@@ -1,4 +1,4 @@
-# arduino_air_quality_sensor
+# arduino air quality sensor
 My wife is a coffee roaster.  During the roasting process, byproducts are encouraged by forced air to leave via the duct work and get exhausted to the outside while the tasty roasted beans stay in the roaster.
 
 Three things come to mind:
