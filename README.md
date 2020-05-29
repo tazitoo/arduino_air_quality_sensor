@@ -3,7 +3,7 @@ My wife is a coffee roaster.  During the roasting process, byproducts are encour
 
 Consider:
 1. No ventilation is perfect
-2. Particulate matter is bad for you - Research shows that exposure to small partuculate matter has a negative impact on longevity, see e.g. how longevity in Pittsburgh increased after the steel plants closed down.
+2. Particulate matter is bad for you - see e.g. how longevity in Pittsburgh increased after the steel plants closed down.
 3. I love my wife
 
 I wired up this dust sensor as an attempt to measure the change in air quality in the roasting house during one of her roasting sessions. The dust sensor is the shiny metal rectangle in the upper right hand corner of the image.  
